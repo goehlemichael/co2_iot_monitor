@@ -1,0 +1,2 @@
+adafruit-circuitpython-scd4x==1.4.1
+adafruit-circuitpython-requests==2.0.2

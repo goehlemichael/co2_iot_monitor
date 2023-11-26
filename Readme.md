@@ -5,7 +5,8 @@
 
 # Configure the settings.toml file
 
-# Requires adafruit io account
-# requires 3 feeds setup in adafruit io
-# set the values in the settings.toml file
-# default time interval is 5 minutes (300 seconds)
+### Requires adafruit io account
+### requires 3 feeds setup in adafruit io
+### set the values in the settings.toml file
+### default time interval is 5 minutes (300 seconds)
+### tested on circuitpython 8.2.8
